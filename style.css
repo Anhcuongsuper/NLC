@@ -1,0 +1,227 @@
+/*/** {
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+	height: 80px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	background-color: #EDEDEA; 
+	position: fixed;
+	top: 0;
+    right: 0;
+    width: 100%;
+}
+
+header img{
+	height: 72px;
+	float:left;
+	padding: 4px 1% 0px 18%;
+}
+
+header h1{
+	padding: 10px;
+	margin:10px 200px 10px 10px;
+	float: left;
+}
+
+header ul li {
+	text-decoration-line: underline; 
+	list-style-type: none;
+	float: left;
+	padding: 15px 20px 0px 20px;
+}
+
+
+/*
+
+
+header h1{
+	float: left;
+	margin-top: 30px;
+	margin: 10px 200px 10px 10px;
+
+}
+header ul { list-style-type: none;
+	margin-top: 42px;
+	float: right;
+
+
+
+}
+header ul li {
+	float: left;
+	margin-right: 20px;
+	border-right: 2px solid black;
+	padding: 20px, 5px, 0px, 5px;
+	text-decoration: underline;
+	padding-right: 10px;
+
+
+
+}
+/*.student {
+	border: none;
+}*/
+/*header ul li a {
+	text-decoration: none;
+	color: green;
+}
+header ul li a:hover {
+	background-color: #38c938;
+
+}
+.main {
+	margin: 100px, 10%, 100px, 15%;
+	
+}
+.main-1{
+	margin-top: 5px;
+}
+
+.div1 {
+	float: left;
+	width: 30%;
+	padding: 10px;
+	
+
+
+    }
+    .div1 p{
+    	
+    	font-style: italic;
+    }
+  .div1 a {
+    	color: #6275ef;
+    }
+    .div2 {
+	float: left;
+	width: 30%;
+	padding: 10px;
+	
+
+
+ }
+ }
+    .div2 p{
+    	
+    	font-style: italic;
+    }
+   .div2 a {
+    	color: #6275ef;
+    }
+    .div3 {
+	float: left;
+	width: 30%;
+	padding: 10px;
+	
+    }
+    
+   .div3 p{
+    
+    	font-style: italic;
+    }
+    .div3 a {
+    	color: #6275ef;
+    }
+    #myBTN{
+	  position: fixed;
+	  border: none;
+	  bottom: 70px;
+	  right: 30px;
+	  border: none;
+	  z-index: 99;
+	  background-color: #EDEDEA;
+	  color: black;
+	  cursor: pointer;
+	  padding: 15px;
+	  border-radius: 4px;
+	  outline: none;
+	  border: 1px solid black;
+}
+*/*/*/*/
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+	height: 80px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	background-color: #EDEDEA; 
+	position: fixed;
+	top: 0;
+    right: 0;
+    width: 100%;
+}
+
+header img{
+	height: 72px;
+	float:left;
+	padding: 4px 1% 0px 18%;
+}
+
+header h1{
+	padding: 10px;
+	margin:10px 200px 10px 10px;
+	float: left;
+}
+
+header ul li {
+	text-decoration-line: underline; 
+	list-style-type: none;
+	float: left;
+	padding: 15px 20px 0px 20px;
+}
+
+main {
+	margin: 100px 10% 100px 15%;
+}
+
+main .row1{
+}
+
+main #doan1 /*#doan2 #doan3*/ {
+	width: 30%;
+	float: left;
+	padding: 10px;
+}
+
+main #doan2{
+	width: 30%;
+	float: left;
+	padding: 10px;
+}
+
+main #doan3{
+	width: 30%;
+	float: left;
+	padding: 10px;
+}
+
+#myBtn{
+	  position: fixed;
+	  border: none;
+	  bottom: 70px;
+	  right: 30px;
+	  border: none;
+	  z-index: 99;
+	  background-color: #EDEDEA;
+	  color: black;
+	  cursor: pointer;
+	  padding: 15px;
+	  border-radius: 4px;
+	  outline: none;
+	  border: 1px solid black;
+}
+
+
+footer {
+	clear: left;
+	background-color: #AAADEE;
+	height: 50px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
